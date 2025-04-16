@@ -47,7 +47,7 @@ I'm scrappy **Full Stack Engineer, ML/AI Enthusiast and Open Source Contributor*
 - **[ResQReach – Disaster Response PWA](#) | React, TypeScript, HTML5, TailwindCSS, Webpack, MongoDB**  
   _Developed a Progressive Web App for disaster response with real-time email alerts using open APIs; optimized state management using Redux and Webpack, reducing data retrieval and load times by 40%._
 
-- **[DiagnoVet – Veterinary AI Assistant](#) | React, JavaScript, MongoDB, NodeJS, AWS, Docker**  
+- **[DiagnoVet – Veterinary Assistant](#) | React, JavaScript, MongoDB, NodeJS, AWS, Docker**  
   _Developed a veterinary healthcare assistant using the MERN stack; Dockerized and deployed on AWS EC2 with CI/CD integration to improve scalability and maintenance._
 
 - **[CrediManage – Transaction Microservice](#) | Spring Boot, Java, Hibernate, SQL**  
