@@ -10,7 +10,7 @@ I'm scrappy **Full Stack Engineer, ML/AI Enthusiast and Open Source Contributor*
 
 ---
 
-## 🧠 Work Experience
+## 💼 Work Experience
 
 ### 🛞 Goodyear Tire & Rubber Company – Software Engineer Intern  
 *Remote | July 2024 – Sep 2024*  
@@ -41,9 +41,9 @@ I'm scrappy **Full Stack Engineer, ML/AI Enthusiast and Open Source Contributor*
 
 ---
 
-### 🔥 Key Projects
+### 💡 Key Projects
 
-#### 🤖 Full Stack  
+#### 💻 Full Stack  
 - **[ResQReach – Disaster Response PWA](#) | React, TypeScript, HTML5, TailwindCSS, Webpack, MongoDB**  
   _Developed a Progressive Web App for disaster response with real-time email alerts using open APIs; optimized state management using Redux and Webpack, reducing data retrieval and load times by 40%._
 
