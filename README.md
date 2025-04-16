@@ -164,7 +164,7 @@ I'm scrappy **Full Stack Engineer, ML/AI Enthusiast and Open Source Contributor*
 ![Multi-GPU Training](https://img.shields.io/badge/Multi--GPU_Training-673AB7?logo=nvidia&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4CAF50?logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-6A1B9A?logo=ai&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-8B5CF6?logo=anthropic&logoColor=white)
 ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-121212?logo=perplexity&logoColor=white)
