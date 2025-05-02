@@ -3,7 +3,7 @@
 
 ### About Me
 
-I'm scrappy **Full Stack Engineer, ML/AI Enthusiast and Open Source Contributor** with expertise in Software Engineering & AI. I am currently pursuing my **Master’s in Computer Software Engineering at Northeastern University, Boston**. My experience spans **frontend - backend - database - cloud - infrastructure  development and AI**.
+I'm a scrappy Full Stack Engineer, ML/AI Enthusiast, and Open Source Contributor with expertise in Software Engineering and Artificial Intelligence. I recently graduated with a Master’s in Computer Software Engineering from Northeastern University, Boston, achieving a GPA of 3.92/4. My experience spans frontend, backend, databases, cloud, infrastructure development, and AI, with a passion for building scalable, intelligent systems end-to-end.
 
 - Looking for roles in Full Stack Engineering and Generative AI Modelling
 - Connect with me on **[LinkedIn](https://www.linkedin.com/in/kaushik-malikireddy-ba359a129/)** or via email at **kaushikred293@yahoo.com**.
