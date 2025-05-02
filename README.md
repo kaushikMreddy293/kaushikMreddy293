@@ -57,6 +57,10 @@ I'm scrappy **Full Stack Engineer, ML/AI Enthusiast and Open Source Contributor*
   _Built a modular rate limiter using Strategy, Decorator, Observer, and Singleton patterns for thread-safe request handling and efficient metadata management._
 
 #### 🤖 AI & Machine Learning  
+
+- **[Deepfake Detection with Parallel Computing](#) | P100 GPU, V100 GPU, PyTorch, ViT, ResNet18, DDP, AMP, Model Parallelism**  
+  _Built a parallelized image forensics pipeline using ResNet18 and Vision Transformer to classify AI-generated vs real images; optimized training with DDP, AMP, and CPU/GPU parallelism, achieving 2.25× speedup     and reduced memory footprint._
+  
 - **[QuantumRAG](#) | LangChain, Hugging Face, RAG, Keras, Flan-T5**  
   _Built a RAG model using LangChain and HuggingFace API for quantum physics queries; reduced hallucinations with FAISS and output parsing, and fine-tuned with LoRA for faster, scalable inference in Keras._
 
