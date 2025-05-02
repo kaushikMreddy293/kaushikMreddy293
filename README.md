@@ -58,6 +58,9 @@ I'm a scrappy Full Stack Engineer, ML/AI Enthusiast, and Open Source Contributor
 
 #### 🤖 AI & Machine Learning  
 
+- **[LDM-Finetune-Naruto](#) | Streamlit, Hugging Face, Latent Diffusion, Fine Tuning LLM**  
+  _Fine-tuned Stable Diffusion’s U-Net on Naruto-style captions for better prompt alignment and style; deployed with Streamlit for interactive text-to-image generation._
+
 - **[Deepfake Detection with Parallel Computing](#) | P100 GPU, V100 GPU, PyTorch, ViT, ResNet18, DDP, AMP, Model Parallelism**  
   _Built a parallelized image forensics pipeline using ResNet18 and Vision Transformer to classify AI-generated vs real images; optimized training with DDP, AMP, and CPU/GPU parallelism, achieving 2.25× speedup     and reduced memory footprint._
   
