@@ -13,7 +13,7 @@ I'm a scrappy Full Stack Engineer, ML/AI Enthusiast, and Open Source Contributor
 ## 💼 Work Experience
 
 ### 🛞 Goodyear Tire & Rubber Company – Software Engineer Intern  
-*Remote | July 2024 – Sep 2024*  
+*Remote | July 2024 – Dec 2024*  
 - Built a centralized Tire Warranty microservice using AWS Lambda, DynamoDB, S3, API Gateway and NodeJS with a serverless framework.  
 - Integrated OAuth 2.0 & JWT authentication with AWS Cognito, configured CI/CD using GitHub Actions, and managed infrastructure via Terraform.
 - Redesigned ERDs and performed data modeling in PostgreSQL for Product and Customer databases as part of a POC for the APAC region.
