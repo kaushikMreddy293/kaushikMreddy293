@@ -3,21 +3,15 @@
 
 ### About Me
 
-I'm a Full Stack Engineer, ML/AI Enthusiast, and Open Source Contributor with expertise in Software Engineering and Artificial Intelligence. I recently graduated with a Master’s in Computer Software Engineering from Northeastern University, Boston, achieving a GPA of 3.92/4. My experience spans frontend, backend, databases, cloud, infrastructure development, and AI, with a passion for building scalable, intelligent systems end-to-end.
-
-- Looking for roles in Full Stack Engineering and Generative AI Modelling
-- Connect with me on **[LinkedIn](https://www.linkedin.com/in/kaushik-malikireddy-ba359a129/)** or via email at **kaushikred293@yahoo.com**.
+I'm a Full Stack Engineer and Open Source Contributor. I have a Master’s in Computer Software Engineering from Northeastern University, Boston, achieving a GPA of 3.92/4. My experience spans frontend, backend, databases, cloud, infrastructure development, and AI, with a passion for building scalable, intelligent systems end-to-end.
 
 ---
 
 ## 💼 Work Experience
 
-### 🛞 Goodyear Tire & Rubber Company – Software Engineer Intern  
-*Remote | July 2024 – Sep 2024*  
-- Built a centralized Tire Warranty microservice using AWS Lambda, DynamoDB, S3, API Gateway and NodeJS with a serverless framework.  
-- Integrated OAuth 2.0 & JWT authentication with AWS Cognito, configured CI/CD using GitHub Actions, and managed infrastructure via Terraform.
-- Redesigned ERDs and performed data modeling in PostgreSQL for Product and Customer databases as part of a POC for the APAC region.
-- Other tools: Jira, Confluence, Swagger, Kanban
+### 🛞 Gupta Media – Software Engineer
+*Boston | Aug 2025 – Present
+- Working with React, Spring, Java, AWS, SQL, PostgreSQL
 
 
 
